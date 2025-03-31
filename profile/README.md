@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 Welcome to the **ReNEW** project! This initiative is focused on driving the transformation of Inland Waterways Transport (IWT) towards a smarter, greener, more sustainable, and climate-resilient future.
 
 ### 🌍 Our Mission
