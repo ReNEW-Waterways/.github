@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to the **ReNEW** project! It is an initiative focused on supporting the transition of Inland Waterways Transport (IWT) to a smarter, greener, more sustainable, and climate-resilient sector.
+Welcome to the **ReNEW** project! This initiative is focused on driving the transformation of Inland Waterways Transport (IWT) towards a smarter, greener, more sustainable, and climate-resilient future.
 
 ### 🌍 Our Mission
 ReNEW is committed to revolutionizing the Inland Waterways Transport sector by making it more environmentally friendly, efficient, and resilient to climate change. Our goal is to support innovation in the sector to ensure that IWT contributes to a sustainable and green future.
